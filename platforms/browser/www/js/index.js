@@ -45,6 +45,7 @@ var app = {
             },
             "browser": {},
             "ios": {
+                "gcmSandbox": true,
                 "sound": true,
                 "vibration": true,
                 "badge": true
