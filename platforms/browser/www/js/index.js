@@ -41,12 +41,13 @@ var app = {
         console.log('calling push init');
         var push = PushNotification.init({
             "android": {
-                "senderID": "17840827627"
+                "senderID": "XXXXXXXX"
             },
             "browser": {},
             "ios": {
-                "senderID": "17840827627",
-                // "gcmSandbox": true,
+                // 17840827627
+                // "senderID": "17840827627",
+                "gcmSandbox": true,
                 "sound": true,
                 "vibration": true,
                 "badge": true
