@@ -48,7 +48,7 @@ var app = {
                 // 17840827627
                 // "senderID": "17840827627",
                 "senderId": '17840827627',
-                "gcmSandbox": true,
+                "gcmSandbox": false,
                 "sound": true,
                 "vibration": true,
                 "badge": true,
