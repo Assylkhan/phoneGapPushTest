@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		0207DA581B56EA530066E2B4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0207DA571B56EA530066E2B4 /* Images.xcassets */; };
 		0E23562E3E0740E7B98901E3 /* libGTM_NSStringXML.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 80C1E4893DAA4C8996630C56 /* libGTM_NSStringXML.a */; };
