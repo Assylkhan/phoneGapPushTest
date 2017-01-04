@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>1057591661662-drjgqif9khvk4kb500sr21rkcpba537j.apps.googleusercontent.com</string>
+	<string>17840827627-3854q9cvvbi82afmdaj2huftbvg7p99r.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1057591661662-drjgqif9khvk4kb500sr21rkcpba537j</string>
+	<string>com.googleusercontent.apps.17840827627-3854q9cvvbi82afmdaj2huftbvg7p99r</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCkPggdLFITiaSxCKD9aJCRQc7hHgT4kmo</string>
+	<string>AIzaSyBGKa6DbuLNejBzmTnEPMyV5ExTqD4awfU</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1057591661662</string>
+	<string>17840827627</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.phonegap.phoneGapPushTestEduMark</string>
 	<key>PROJECT_ID</key>
-	<string>phonegappushtest-ede74</string>
+	<string>phonegappushtestedumark</string>
 	<key>STORAGE_BUCKET</key>
-	<string>phonegappushtest-ede74.appspot.com</string>
+	<string>phonegappushtestedumark.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1057591661662:ios:a61b33d62dd4930e</string>
+	<string>1:17840827627:ios:a61b33d62dd4930e</string>
 	<key>DATABASE_URL</key>
-	<string>https://phonegappushtest-ede74.firebaseio.com</string>
+	<string>https://phonegappushtestedumark.firebaseio.com</string>
 </dict>
 </plist>
