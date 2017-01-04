@@ -46,7 +46,7 @@ var app = {
             "browser": {},
             "ios": {
                 // "senderID": "1057591661662",
-                "gcmSandbox": true,
+                // "gcmSandbox": true,
                 "sound": true,
                 "vibration": true,
                 "badge": true
