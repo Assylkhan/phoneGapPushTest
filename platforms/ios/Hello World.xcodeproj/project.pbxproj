@@ -17,7 +17,7 @@
 		274D50C624A24FDF8E0104CC /* libGTM_NSData+zlib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CF7FD3015D4A4CB48F1EFDC5 /* libGTM_NSData+zlib.a */; };
 		27BB45B693A14E5689EED8A1 /* CDVStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F9820C1056B4889B082DDB7 /* CDVStatusBar.m */; };
 		280BE703C49A4CCFB131B498 /* libGTM_NSScannerJSON.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B706371E1E014435B02D06D6 /* libGTM_NSScannerJSON.a */; };
-		2A642F2E1E1E29E30069F8FB /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2A642F2D1E1E29E30069F8FB /* GoogleService-Info.plist */; };
+		2ADDB9941E1E53880098705B /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2ADDB9931E1E53880098705B /* GoogleService-Info.plist */; };
 		2C7720243F23418D994E350E /* libGTM_StringEncoding.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F06EE2375BB247EB94057C09 /* libGTM_StringEncoding.a */; };
 		2E1EEA21AB1E434285F46841 /* libGTM_NSStringHTML.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BACD24778AB440D78289F1A3 /* libGTM_NSStringHTML.a */; };
 		301BF552109A68D80062928A /* libCordova.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF535109A57CC0062928A /* libCordova.a */; };
@@ -87,7 +87,7 @@
 		25BA7EC24CF94302853598EB /* libGTM_NSDictionary+URLArguments.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; name = "libGTM_NSDictionary+URLArguments.a"; path = "Hello World/Plugins/phonegap-plugin-push/GCM/Libraries/libGTM_NSDictionary+URLArguments.a"; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2A16A8561E1CBA15003C7299 /* Hello World.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = "Hello World.entitlements"; path = "Hello World/Hello World.entitlements"; sourceTree = "<group>"; };
-		2A642F2D1E1E29E30069F8FB /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		2ADDB9931E1E53880098705B /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		301BF52D109A57CC0062928A /* CordovaLib.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CordovaLib.xcodeproj; path = CordovaLib/CordovaLib.xcodeproj; sourceTree = "<group>"; };
 		301BF56E109A69640062928A /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = SOURCE_ROOT; };
 		302D95EE14D2391D003F00A1 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
@@ -217,7 +217,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
-				2A642F2D1E1E29E30069F8FB /* GoogleService-Info.plist */,
+				2ADDB9931E1E53880098705B /* GoogleService-Info.plist */,
 				2A16A8561E1CBA15003C7299 /* Hello World.entitlements */,
 				EB87FDF41871DAF40020F90C /* config.xml */,
 				EB87FDF31871DA8E0020F90C /* www */,
@@ -433,7 +433,7 @@
 			files = (
 				302D95F214D2391D003F00A1 /* MainViewController.xib in Resources */,
 				0207DA581B56EA530066E2B4 /* Images.xcassets in Resources */,
-				2A642F2E1E1E29E30069F8FB /* GoogleService-Info.plist in Resources */,
+				2ADDB9941E1E53880098705B /* GoogleService-Info.plist in Resources */,
 				6AFF5BF91D6E424B00AB3073 /* CDVLaunchScreen.storyboard in Resources */,
 				FF6331E78BBA45A0B7CE9577 /* CDVNotification.bundle in Resources */,
 			);
