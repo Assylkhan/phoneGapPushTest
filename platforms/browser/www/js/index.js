@@ -47,7 +47,7 @@ var app = {
             "ios": {
                 // 17840827627
                 // "senderID": "17840827627",
-                "senderId": '1036656061830',
+                // "senderId": '1036656061830',
                 "gcmSandbox": false,
                 "sound": true,
                 "vibration": true,

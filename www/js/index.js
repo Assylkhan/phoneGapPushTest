@@ -45,9 +45,9 @@ var app = {
             },
             "browser": {},
             "ios": {
-                // 17840827627
-                // "senderID": "17840827627",
-                "senderId": '1036656061830',
+                // 757423138825
+                // "senderID": "757423138825",
+                // "senderId": '757423138825',
                 "gcmSandbox": false,
                 "sound": true,
                 "vibration": true,
